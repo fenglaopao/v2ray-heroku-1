@@ -5,8 +5,9 @@
     "settings": {
       "clients": [
         {
-          "id": "b831381d-6324-4d53-ad4f-8cda48b30811",
-          "alterId": 64
+          "id": "c20a8514-b0b1-410d-9477-4fc37c82249b",
+          "alterId": 64,
+         "security": "chacha20-poly1305" 
         }
       ]
     },
